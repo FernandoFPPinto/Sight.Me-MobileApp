@@ -46,7 +46,7 @@ made subject to such option by the copyright holder.
 <!--
     Generated file; DO NOT EDIT.
 -->
-<project name="Social_Network_Mobile_Client" basedir="..">
+<project name="Social-Network-Project-GitHub" basedir="..">
     <property file="nbproject/configs/${config}.properties" />
 
     <scriptdef name="checkVersion" language="javascript">
